@@ -8,6 +8,10 @@ file_extensions:
   - hrl
   - Emakefile
   - emakefile
+  - rebar.config
+  - sys.config
+  - app
+  - app.src
 scope: source.erlang
 contexts:
   main:
