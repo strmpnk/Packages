@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[-behavior(${1:behaviour}).]]></content>
+    <tabTrigger>beh</tabTrigger>
+    <scope>source.erlang</scope>
+    <description>Behavior Directive</description>
+</snippet>
